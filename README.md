@@ -10,3 +10,7 @@ The Next-Level-Week event from Rocketseat had the purpose to challenge us to dev
 ### Features
 
 This app was developed using the latest features tools for web and mobile development.
+
+- __React Native__ : a framework used to develop applications for Android and IOS.
+- __React.JS__ : an open-source JavaScript library for  building user interface.
+- __Node.Js__ : a JavaScript runtime environment that allows developers use JavaScript for server-side.
