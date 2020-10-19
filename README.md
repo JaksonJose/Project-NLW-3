@@ -1,4 +1,4 @@
-<div align="center"># Happy Orphanage Project</div>
+<h1 align="center">Happy Orphanage Project</h1>
 
 
 ### About the Project
