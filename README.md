@@ -7,7 +7,7 @@
 
 ### About the Project
 
-Happy is an application that connects people to institutional care homes. 
+Happy is an application that connects people to orphanage. 
 The app is aimed at calling visitors to visit the orphanage and make many children's day happier.
 
 The Next-Level-Week event held by Rocketseat was aimed at challenging us to develop an application that get orphanages enrolled and put their location on the map, uploading and storing images.
